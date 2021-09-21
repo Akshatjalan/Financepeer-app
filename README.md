@@ -3,12 +3,8 @@
 <h1 align="center">File Upload React App with firebase as Backend</h1>
 
 
-## APP Description
+# App Description
     It is an File upload React web application where the authorised user can upload their files and images online.
-    
- ##   [Live App Demo](https://financepeer-fileapp-18bit0340.netlify.app/)
- 
-
 
 # Tools Used
 
